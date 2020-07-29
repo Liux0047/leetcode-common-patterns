@@ -14,6 +14,8 @@ For Java, use ArrayDeque instead of the Stack class, [find out more](https://sta
   * https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
   * https://leetcode.com/problems/find-all-duplicates-in-an-array/
 
+* In Java, `Arrays.sort(Object[])` and `Collections.sort(List<T>)` are guaranteed to be stable. This can be useful to preserve original ordering if partial sorting is required: 
+  * https://leetcode.com/problems/reorder-data-in-log-files/
 
 ### Two heaps
 Usually for finding median in data stream. Use a max and min heap to keep left and right half. Always adding new element to one half and poll from it to avoid deciding which half to add:
