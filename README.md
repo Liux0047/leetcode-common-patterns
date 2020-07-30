@@ -25,3 +25,4 @@ Usually for finding median in data stream. Use a max and min heap to keep left a
 
 ### Fast & slow pointer
 * Useful when you need to maintain certain distance between linked list nodes: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+* Cycle detection with fast/slow pointer: https://leetcode.com/problems/linked-list-cycle/solution/
