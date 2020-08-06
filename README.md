@@ -17,6 +17,12 @@ For Java, use ArrayDeque instead of the Stack class, [find out more](https://sta
 * In Java, `Arrays.sort(Object[])` and `Collections.sort(List<T>)` are guaranteed to be stable. This can be useful to preserve original ordering if partial sorting is required: 
   * https://leetcode.com/problems/reorder-data-in-log-files/
 
+### Heap
+For Java, the data strcuture is PriorityQueue; for Python see functions in heapq
+* K smallest / largest elements from whatever: 
+  * https://leetcode.com/problems/merge-k-sorted-lists/
+  * https://leetcode.com/problems/find-k-pairs-with-smallest-sums/
+
 ### Two heaps
 Usually for finding median in data stream. Use a max and min heap to keep left and right half. Always adding new element to one half and poll from it to avoid deciding which half to add:
 * https://leetcode.com/problems/find-median-from-data-stream/
