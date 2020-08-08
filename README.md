@@ -26,7 +26,7 @@ For Java, the data strcuture is PriorityQueue; for Python see functions in heapq
   * https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/discuss/104893/Java-Code-using-PriorityQueue.-similar-to-merge-k-array
 
 ### Two heaps
-Usually for finding median in data stream. Use a max and min heap to keep left and right half. Always adding new element to one half and poll from it to avoid deciding which half to add:
+Usually for finding median in data stream. Use a max and min heap to keep left and right half. Always add new element to one heap and poll from it to avoid deciding which heap to add:
 * https://leetcode.com/problems/find-median-from-data-stream/
 * https://leetcode.com/problems/sliding-window-median/
 
