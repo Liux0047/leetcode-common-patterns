@@ -23,6 +23,9 @@ For Java, the data strcuture is PriorityQueue; for Python see functions in heapq
   * https://leetcode.com/problems/merge-k-sorted-lists/
   * https://leetcode.com/problems/find-k-pairs-with-smallest-sums/
   * https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
+* K-way merge: maintain a heap of size K where each item in heap is the currenct element for each list:
+  * https://leetcode.com/problems/merge-k-sorted-lists/
+  * https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/discuss/104893/Java-Code-using-PriorityQueue.-similar-to-merge-k-array
 
 ### Two heaps
 Usually for finding median in data stream. Use a max and min heap to keep left and right half. Always adding new element to one half and poll from it to avoid deciding which half to add:
