@@ -38,3 +38,4 @@ Usually for finding median in data stream. Use a max and min heap to keep left a
 
 ### Two pointers
 * odd / even pointer in linked list: https://leetcode.com/problems/odd-even-linked-list/
+* Dutch national flag problem: https://leetcode.com/problems/sort-colors/ ; use 3 pointers for each boundary between 0,1, unclassified, 2
