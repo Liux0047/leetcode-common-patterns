@@ -24,6 +24,7 @@ For Java, the data strcuture is PriorityQueue; for Python see functions in heapq
 * K-way merge: maintain a heap of size K; poll from the heap and replace with its next item from its array:
   * https://leetcode.com/problems/merge-k-sorted-lists/
   * https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/discuss/104893/Java-Code-using-PriorityQueue.-similar-to-merge-k-array
+* Find max number of overlapping intervals at any point of time: https://leetcode.com/problems/meeting-rooms-ii/solution/
 
 ### Two heaps
 Usually for finding median in data stream. Use a max and min heap to keep left and right half. Always add new element to one heap and poll from it to avoid deciding which heap to add:
