@@ -49,3 +49,4 @@ Usually for finding median in data stream. Use a max and min heap to keep left a
   
 ### Union find
 * https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/discuss/896208/Java-Classic-Union-Find
+* https://leetcode.com/problems/accounts-merge/discuss/896257/Java-Union-Find
