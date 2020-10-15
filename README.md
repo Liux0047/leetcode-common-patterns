@@ -39,7 +39,7 @@ Usually for finding median in data stream. Use a max and min heap to keep left a
 * Find the middle of linked list with fast/slower pointer, when fast runs to the end, slow is in the middle: https://leetcode.com/problems/middle-of-the-linked-list/solution/
 
 ### Two pointers
-* odd / even pointer in linked list: https://leetcode.com/problems/odd-even-linked-list/
+* Odd / even pointer in linked list: https://leetcode.com/problems/odd-even-linked-list/
 * Dutch national flag problem: https://leetcode.com/problems/sort-colors/ ; use 3 pointers for each boundary between 0,1, unclassified, 2
 
 ### Bucket sort
