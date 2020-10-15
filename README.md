@@ -41,3 +41,8 @@ Usually for finding median in data stream. Use a max and min heap to keep left a
 ### Two pointers
 * odd / even pointer in linked list: https://leetcode.com/problems/odd-even-linked-list/
 * Dutch national flag problem: https://leetcode.com/problems/sort-colors/ ; use 3 pointers for each boundary between 0,1, unclassified, 2
+
+### Bucket sort
+* Priority Queue solutions should be sufficient for top k frequent element questions in the interview, but bukcet sort can make it even more efficient:
+  * https://leetcode.com/problems/top-k-frequent-elements/discuss/81602/Java-O(n)-Solution-Bucket-Sort
+  * https://leetcode.com/problems/sort-characters-by-frequency/solution/
