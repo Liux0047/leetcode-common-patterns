@@ -46,3 +46,6 @@ Usually for finding median in data stream. Use a max and min heap to keep left a
 * Priority Queue solutions should be sufficient for top k frequent element questions in the interview, but bukcet sort can make it even more efficient:
   * https://leetcode.com/problems/top-k-frequent-elements/discuss/81602/Java-O(n)-Solution-Bucket-Sort
   * https://leetcode.com/problems/sort-characters-by-frequency/solution/
+  
+### Union find
+* https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/discuss/896208/Java-Classic-Union-Find
