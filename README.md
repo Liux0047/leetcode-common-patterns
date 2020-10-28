@@ -52,4 +52,4 @@ Usually for finding median in data stream. Use a max and min heap to keep left a
 * https://leetcode.com/problems/accounts-merge/discuss/896257/Java-Union-Find
 
 ### Trie
-https://leetcode.com/problems/implement-trie-prefix-tree/solution/
+This article is a great tutorial on Trie: https://leetcode.com/problems/implement-trie-prefix-tree/solution/
